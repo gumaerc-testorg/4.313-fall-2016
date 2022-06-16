@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains details of the Penultimate & Final Review assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

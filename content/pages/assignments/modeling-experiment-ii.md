@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains details about the Modeling Experiment (II) Assignment
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
