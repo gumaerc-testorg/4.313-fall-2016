@@ -5,6 +5,7 @@ file: /courses/4-313-advanced-studio-on-the-production-of-space-fall-2016/5dfafb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
