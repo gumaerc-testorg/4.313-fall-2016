@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains the course description, expectations and grading
+  breakdown. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ced982d5-a00c-08ce-036c-e889b4922714
 ---

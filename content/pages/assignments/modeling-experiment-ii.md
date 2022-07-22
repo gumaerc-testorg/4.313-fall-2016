@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains details about the Modeling Experiment (II) Assignment
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: d89caab9-7df8-8b64-dd09-4cdc5d0ae4b1
 title: Modeling Experiment (II)
 uid: 51470a56-469d-26b3-2328-56ce0b36baa6
