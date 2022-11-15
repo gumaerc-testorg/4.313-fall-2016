@@ -2,6 +2,7 @@
   "term": "Fall",
   "year": "2016",
   "level": [
+    "Undergraduate",
     "Graduate"
   ],
   "topics": [
@@ -45,6 +46,7 @@
     "website": "4-313-advanced-studio-on-the-production-of-space-fall-2016"
   },
   "learning_resource_types": [],
-  "site_uid": "e0a1a343-8f12-47f0-9b34-a211e0a1367c",
+  "site_uid": "6c08af01-adea-46d6-bd7f-d7b227705398",
+  "short_id": "4.313-fall-2016",
   "title": "Course Metadata"
 }
