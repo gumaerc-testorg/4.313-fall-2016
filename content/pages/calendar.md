@@ -287,7 +287,7 @@ Discussion: We will discuss the concept of _habitus_ and everydayness as a set o
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Studio: {{% resource_link "dc47c864-4a1a-4b84-a59b-e7c798f3eefb" "MIT Museum" %}} visit
+Studio: [MIT Museum](https://mitmuseum.mit.edu/) visit
 {{< tdclose >}}
 {{< tdopen >}}
  
