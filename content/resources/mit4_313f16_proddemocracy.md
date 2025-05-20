@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/4-313-advanced-studio-on-the-production-of-space-fall-2016/5dfafbff49f0e1cfc92cd41a201688fa_MIT4_313F16_ProdDemocracy.pdf
+file: /courses/4-313-advanced-studio-on-the-production-of-space-fall-2016/5dfafbff49f0e1cfc92cd41a201688fa_MIT4_313F16_ProdDemocracy.pdf
 file_size: 2850012
 file_type: application/pdf
 learning_resource_types:
