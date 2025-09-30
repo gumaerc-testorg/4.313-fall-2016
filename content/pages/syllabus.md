@@ -35,7 +35,7 @@ Modeling is the main modus operandi of the class as students will be required to
 
 Final projects and accompanying documentation will be aggregated in an exhibition and publication that brings together selected disobedient modeling practices in culture, technology and science. The format of the exhibition and publication will be curated as a modeling experiment in its own right, a register of theoretical and methodological entanglements between different modeling agendas that will emerge during the semester-long research.
 
-This course was developed with support from [The Alumni Class Funds](http://web.mit.edu/alumnifunds/about.html) grant. First conducted in Fall 2012, this studio/seminar was led by Professor Gediminas Urbonas, and SMArchS '13 Alumna Mariel Villeré with ACT Research Fellow Zenovia Toloudi. The Fall 2012 course was developed with support from the [MIT Council for the Arts](http://arts.mit.edu/welcome/camit/) and the [ACT Pilot Grant Program](http://act.mit.edu/facilities-and-resources/opportunities/act-pilot-grant-program/).
+This course was developed with support from {{% resource_link "5239b234-0db6-402e-bd1f-af22696b20c7" "The Alumni Class Funds" %}} grant. First conducted in Fall 2012, this studio/seminar was led by Professor Gediminas Urbonas, and SMArchS '13 Alumna Mariel Villeré with ACT Research Fellow Zenovia Toloudi. The Fall 2012 course was developed with support from the {{% resource_link "73847be1-f030-4576-86c1-da6200190fd2" "MIT Council for the Arts" %}} and the {{% resource_link "9e3a1607-fb45-4c36-a149-1cb1f6b05f3d" "ACT Pilot Grant Program" %}}.
 
 Grading
 -------
