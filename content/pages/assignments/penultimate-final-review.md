@@ -13,7 +13,7 @@ uid: b24ca76d-9ddc-92c2-e3e2-2266bd4047c0
 ---
 ## Penultimate — Develop & Build
 
-Students are required to present their final project proposals. They are asked to discuss the technical possibilities and needs for the project’s realization and not less important – project documentation. We will have [Madeleine Gallagher](https://www.linkedin.com/in/madgala/) (ACT media associate) in the class responsible for the technical assistance and equipment.
+Students are required to present their final project proposals. They are asked to discuss the technical possibilities and needs for the project’s realization and not less important – project documentation. We will have {{% resource_link "6b894c65-789a-4213-9188-3d2a3bfc1989" "Madeleine Gallagher" %}} (ACT media associate) in the class responsible for the technical assistance and equipment.
 
 *Due date: Session 22*
 
